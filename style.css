@@ -18,4 +18,41 @@
 .banner{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
+   
+}
+h2{
+    color: brown;
+}
+.work{
+   text-align: center;  
+}
+body{
+    margin: 0% ;
+}
+section{
+    height: 300px;
+    padding-bottom: 20px;
+}
+.my-work img{
+   width: 20%;
+   float: left;
+   margin-left: 2%;
+   padding-left: 2%;
+   
+}
+#opinion{
+  text-align: center;
+}
+
+button{
+    background-color:blue;
+    color: aqua;
+    text-decoration: none;
+    padding-right: 120px;
+    padding-bottom: 50px;
+    margin-left: 40%;
+    text-align: center;
+}
+ footer p{
+    text-align: center;
 }
